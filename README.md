@@ -1,6 +1,13 @@
 # RestAPI
 Task 4: RESTful API Development
 simple example of how you can implement the RESTful API and middleware using Node.js and TypeScript:
+Create a New File:
+In VS Code, create a new file with a .ts extension, for example, app.ts.
+
+Copy and Paste the Code:
+Copy the Node.js and TypeScript code you provided and paste it into the app.ts file.
+
+Install Dependencies:
 
 Task 5: Middleware Implementation
 Make sure to install the necessary dependencies using:
