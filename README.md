@@ -9,6 +9,8 @@ Copy the Node.js and TypeScript code you provided and paste it into the app.ts f
 
 Install Dependencies:
 
+npm start
+
 Task 5: Middleware Implementation
 Make sure to install the necessary dependencies using:
 npm install express @types/express typescript ts-node
